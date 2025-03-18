@@ -3,7 +3,6 @@ using namespace std;
 
 float LuasPersegiPanjang(float x, float y){
     return x * y;
-
 }
 
 float LuasLingkaran(float x){
