@@ -12,7 +12,7 @@ int main() {
     srand(time(0));
     x = rand() % 10;
     cout << "Perulangan While " << endl;
-    cout << "Nilai x awal = " << endl;
+    cout << "Nilai x awal = " << x << endl;
 
     while (x < 7) {
         cout << "Nilai X = " << x << " Lari Keliling " << endl;
